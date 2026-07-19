@@ -22,31 +22,33 @@ El sistema permite administrar un listado de personas con las siguientes funcion
 El diseño está basado en POO, utilizando herencia, polimorfismo, encapsulamiento y una interfaz para estandarizar el registro de personas.
 
 Este proyecto fue desarrollado a partir de un caso contextualizado (empresa de turismo Llanquihue Tours), abordando problemas reales y proponiendo una solución estructurada, modular y reutilizable.
+
 ---
 
 ## 🧱 Estructura general del proyecto
-
+```plaintext
 📦 SistemaGestionPersonas
 ├── 📂 src
 │   ├── 📂 app
 │   │   └── Main.java                 # Punto de entrada
 │   ├── 📂 model
-│   │   ├── Persona.java              # Clase Padre
+│   │   ├── Persona.java              # Clase base
 │   │   ├── Cliente.java              # Cliente
 │   │   ├── Empleado.java             # Empleado
 │   │   ├── Proveedor.java            # Proveedor
 │   │   ├── Direccion.java            # Dirección
-│   │   ├── RUT.java                  # RUT
+│   │   ├── RUT.java                  # RUT chileno
 │   │   └── Registrable.java          # Interfaz
 │   ├── 📂 data
 │   │   └── GestorDeDatos.java        # Lectura de archivos
 │   └── 📂 utils
-│       ├── PersonaService.java       # Logica de datos
-│       └── RutInvalidoException.java # Excepción personalizada para ingreso de RUT
+│       ├── PersonaService.java       # Lógica de negocio
+│       └── RutInvalidoException.java # Excepción personalizada
 ├── 📂 archivos
 │   ├── Datos personas.txt
 │   └── Direcciones.txt
 └── README.md
+````
 
 ---
 
@@ -57,22 +59,22 @@ Este proyecto fue desarrollado a partir de un caso contextualizado (empresa de t
 1. Clona el repositorio desde GitHub:
 
 ```bash
-git clone https://github.com/usuario/repositorio-evaluacion-final.git
+git clone https://github.com/fvillad-cloud/LlanquihueToursAppS9/
 ```
 
-2. Abre el proyecto en IntelliJ IDEA.
+2. Abre el proyecto en NetBeans.
 
 3. Verifica que los archivos `.txt` estén correctamente ubicados.
 
 4. Ejecuta el archivo `Main.java` desde el paquete `app`.
 
-5. Sigue las instrucciones en consola o en la interfaz gráfica (si corresponde).
+5. Sigue las instrucciones en consola.
 
 
 ---
 
-**Repositorio GitHub:** \[Pega aquí el enlace al repositorio]
-**Fecha de entrega:** \[DD/MM/2025]
+**Repositorio GitHub:** https://github.com/fvillad-cloud/LlanquihueToursAppS9/
+**Fecha de entrega:** 19-07-2026
 
 ---
 
