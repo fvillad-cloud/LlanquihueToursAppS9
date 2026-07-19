@@ -1,0 +1,9 @@
+Los Alamos;1245;Santiago;Metropolitana
+Ohiggins;890;Valparaiso;Valparaiso
+San Martin;456;Rancagua;Ohiggins
+Costa del Sol;321;La Serena;Coquimbo
+El Roble;678;Temuco;La Araucania
+Gran Avenida;234;Concepcion;Biobio
+Los Naranjos;567;Valdivia;Los Rios
+Costanera;789;Puerto Montt;Los Lagos
+Arturo Prat;432;Antofagasta;Antofagasta
