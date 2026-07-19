@@ -59,7 +59,7 @@ Este proyecto fue desarrollado a partir de un caso contextualizado (empresa de t
 1. Clona el repositorio desde GitHub:
 
 ```bash
-git clone https://github.com/fvillad-cloud/LlanquihueToursAppS9/
+git clone https://github.com/fvillad-cloud/LlanquihueToursAppS9.git
 ```
 
 2. Abre el proyecto en NetBeans.
@@ -73,7 +73,7 @@ git clone https://github.com/fvillad-cloud/LlanquihueToursAppS9/
 
 ---
 
-**Repositorio GitHub:** https://github.com/fvillad-cloud/LlanquihueToursAppS9/
+**Repositorio GitHub:** https://github.com/fvillad-cloud/LlanquihueToursAppS9.git
 **Fecha de entrega:** 19-07-2026
 
 ---
